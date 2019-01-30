@@ -1,0 +1,12 @@
+#signal-amplifier
+
+#1                  #2                 #3                      #4                  
+                    MOV UP, ACC
+                    ADD ACC
+                    MOV ACC, DOWN
+
+#5                  #6                 #7                      #8                  
+                    MOV UP, DOWN
+
+#9                  #10                #11                     #12                  
+                    MOV UP, RIGHT      MOV LEFT, DOWN
